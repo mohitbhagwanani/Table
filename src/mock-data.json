@@ -1,0 +1,37 @@
+[
+  {
+    "id":1,
+    "firstName": "Mohit",
+    "lastName": "Bhagwanani",
+    "gender":"Male",
+    "qualification": "B.Tech",
+    "dob":"22/12/1997",
+    "country":"India",
+    "state":"Delhi",
+    "city":"New Delhi"
+
+  },
+  {
+    "id":2,
+    "firstName": "Himanshu",
+    "lastName": "Choudhary",
+    "gender":"Male",
+    "qualification": "B.Tech",
+    "dob":"10/07/1994",
+    "country":"India",
+    "state":" Uttar Pradesh",
+    "city":"Lucknow"
+  },
+  {
+    "id":3,
+    "firstName": "Harsh",
+    "lastName": "Ranjan",
+    "gender":"Male",
+    "qualification": "B.Tech",
+    "dob":"13/11/1990",
+    "country":"India",
+    "state":"Maharashtra",
+    "city":"Pune"
+  }
+
+]
